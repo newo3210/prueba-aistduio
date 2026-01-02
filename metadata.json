@@ -1,0 +1,7 @@
+{
+  "name": "EtherLoop - Etherlink Audio Marketplace",
+  "description": "A gamified audio marketplace on Etherlink L2. Collect sound loops, reveal the waveform, and unlock the full track.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
